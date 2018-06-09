@@ -1,0 +1,11 @@
+{
+  "name": "basic-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<ethangk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-markdown": "^0.0.6"
+  }
+}
